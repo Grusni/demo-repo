@@ -8,4 +8,6 @@ Watch the video about github on [youtube](https://www.youtube.com/watch?v=RGOj5y
 
 ### Local development
 
-1. Open index.html in your browser
+1. Open index.html in your browser 
+2. Access the video above
+3. Understand the basics of github
